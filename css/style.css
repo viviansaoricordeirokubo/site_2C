@@ -18,5 +18,9 @@ a{
 input, button{
     background-color: black;
     color: white;
-    padding: 4px;
+    padding: 4px; 
+}
+
+button{
+    border-radius: 8px;
 }
